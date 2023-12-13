@@ -159,4 +159,7 @@ function showNotification(message) {
         }, 500);
     }, 1000);
 }
+createTabs(data['Information'], 0);
+
+
 
